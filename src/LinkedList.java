@@ -9,5 +9,5 @@ public class LinkedList {
         Node newNode = new Node(data);
         newNode.next = head;
         head = newNode;
-}
+    }
 }
